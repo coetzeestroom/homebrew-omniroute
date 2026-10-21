@@ -1,8 +1,8 @@
 class Omniroute < Formula
   desc "Unified AI router with 160+ providers, compression, fallback, MCP/A2A"
   homepage "https://omniroute.online"
-  url "https://registry.npmjs.org/omniroute/-/omniroute-3.8.49.tgz"
-  sha256 "7dc1ac03139dbf5652c2ddb878726ef7b9724404ca070f2b61e16f193461c58b"
+  url "https://registry.npmjs.org/omniroute/-/omniroute-3.8.52.tgz"
+  sha256 "4fb570f7db3099fc1cc01d16f4e37c0c1a1cb43049ff3e85fbfbfa86c66b86a7"
   license "MIT"
 
   depends_on "node@22"
